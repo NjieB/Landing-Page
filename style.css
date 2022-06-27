@@ -187,3 +187,11 @@ align-items: center;
 border-style: solid;
 margin: 5px;
 }
+.footer {
+    background-color: #1F2937;
+    color:rgba(255, 255, 255, 0.71);
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    margin: 0px;
+}
