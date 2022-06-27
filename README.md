@@ -1,2 +1,2 @@
 # Landing-Page
-Wedpage Design
+Webpage Design
